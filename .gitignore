@@ -1,0 +1,13 @@
+.git
+.github
+*.vs
+*.bin
+*.obj
+node_modules/
+packages/
+*.dll
+*.mp4
+*.zip
+*.exe
+.DS_Store
+Thumbs.db
